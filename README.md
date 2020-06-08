@@ -1,5 +1,5 @@
 # Machine Learning 
-### Coursera - Stanford University taught by Andrew Ng
+### Coursera - Stanford University taught by Professor Andrew Ng
 
 This course teaches machine learning techniques and includes a series of programming exercises to gain practices. It is required to write and run a computer program to solve machine learning problems. 
 
